@@ -1,7 +1,8 @@
-# Guillaume Bouffard
-### A sort of coding MacGyver...
+## Guillaume Bouffard
 
-I'm a French London-based coding enthusiast, who has a passion for solving puzzles, maths problems and likes challenges that involves deep thinking (headaches excluded if possible). Despite having received multiple awards in the past 10 years, I felt for a long-time that I wasn't my true-self. I discovered Makers Academy at the end of last year and took this opportunity to join and do what I wanted to do for a very long time: learn to code. Having graduated from their intense training in June 2015, I am now looking to join for the long-term a business that I can add value to, at the same time as I can keep on learning new skills from its senior techical team.
+A French and fun London-based coding MacGyver, who has a passion for solving puzzles, maths problems and challenges that involve a deep level of concentration. Despite having received multiple awards, I felt for a long-time that I wasn't true to myself in my previous career. In March 2015, I took a leap of faith and put my trust in the Makers Academy cursus to do what I wanted to do for a very long time: learn how to code. 
+
+Having recently graduated, I am now looking to join for the long-term a business that I can add value to and learn from, at the same time as I can enjoy my new career with a team of smart and fun people.
 
 ***
 
@@ -94,11 +95,10 @@ French (mother tongue), English (Fluent), Spanish (intermediate).
 ### Education
 
 **Makers Academy** (March 2015 to June 2015)
-**MBA in engineering management**, Coventry university (2003 to 2004)
-**Mechanical Engineer diploma**, ENIT, Tarbes, France  (1998 to 2003)
+**MBA in engineering management**, Coventry university (2003 to 2004)  
+**Mechanical Engineer diploma**, ENIT, Tarbes, France  (1998 to 2003)  
 
 ### Career History
-*nb: always in London, UK*
 
 **Analytica Resources** (Jun 2013 - Jan 2015) *CRM Recruitment Specialist & Worldwide Desk Manager*
 **RP International** (Jun 2011 - Apr 2013) *Telecom, OSS, BSS, CRM & IT Recruitment Consultant*  
@@ -111,6 +111,6 @@ French (mother tongue), English (Fluent), Spanish (intermediate).
 
 ### Additional information:
 
-My Github CV is essentially focused on my future career and I wouldn't want to deviate from this. As a result, mentionning that my previous achievements include growing a network of 330% or being 2 years-in-a-row top salesperson of the year in a previous company, become very quickly irrelevant. It still plays in my favour to mention it but there is no need to go into depth. 
+My Github CV is essentially focused on my future career and I don't want to deviate from this. My previous achievements include growing a network of 330% and being twice sales executive of the year, but these are now actually irrelevant given the fact that I am completely changing job.
 
-My full career history, as well as proofs of results and recommendations from ex-clients and business contacts are available on my [LinkedIn](https://uk.linkedin.com/in/gbouffard) profile.
+My full career history, as well as proofs of past results and recommendations are available on my [LinkedIn Profile](https://uk.linkedin.com/in/gbouffard).
