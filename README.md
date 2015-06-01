@@ -1,10 +1,11 @@
 # Guillaume Bouffard
-#### A coding MacGyver
+### A sort of coding MacGyver...
 
-I'm a French London-based coding enthusiast, who has a passion for solving puzzles, maths problems and likes challenges that involves deep thinking (headaches excluded if possible). Despite having received multiple awards in the past 10 years, I felt for a long-time that I wasn't my true-self. I was lucky enough to discover Makers Academy at the end of 2014 and took this opportunity to join and do what I wanted to do for a very long time: learn to code. Having graduated from their intense training in June 2015, I am now looking to join for the long-term a business that I can add value to, at the same time as I can keep on learning new skills from its senior techical team.
+I'm a French London-based coding enthusiast, who has a passion for solving puzzles, maths problems and likes challenges that involves deep thinking (headaches excluded if possible). Despite having received multiple awards in the past 10 years, I felt for a long-time that I wasn't my true-self. I discovered Makers Academy at the end of last year and took this opportunity to join and do what I wanted to do for a very long time: learn to code. Having graduated from their intense training in June 2015, I am now looking to join for the long-term a business that I can add value to, at the same time as I can keep on learning new skills from its senior techical team.
 
+***
 
-## Technical Coding Skills
+### Technical Skills
 
 <table>
   <tr>
@@ -56,7 +57,7 @@ I'm a French London-based coding enthusiast, who has a passion for solving puzzl
     </td>
   </tr>
    <tr>
-    <td><h4>Databases</h4></td>
+    <td><h4>Databases and ORMs</h4></td>
     <td>
       PostgreSQL
       <br>Datamapper
@@ -66,7 +67,7 @@ I'm a French London-based coding enthusiast, who has a passion for solving puzzl
   </tr>
 </table>
 
-## Functional Skills
+### Functional Skills
 - Software Crafstmanship
 - Autonomous learning skills and problem solving
 - Teamwork and Pair-programming
@@ -74,10 +75,13 @@ I'm a French London-based coding enthusiast, who has a passion for solving puzzl
 - Work well under pressure
 - Google and codes searching skills
 
-## Languages skills:
+### Languages skills:
 French (mother tongue), English (Fluent), Spanish (intermediate).
 
-## Selected Projects Portfolio
+***
+
+### Selected Projects Portfolio
+
 | Repository | Description | Technologies | Testing | URL |
 | ------------ | ----------- | ----------- | ----------- | ----------- |
 | [Boris Bikes](https://github.com/GBouffard/BB5) | TDD Blabla | Ruby | Rspec | NA |
@@ -85,13 +89,15 @@ French (mother tongue), English (Fluent), Spanish (intermediate).
 | [Rock Paper Scissors](TBC) | Blabla | tech | test | [Na](http_na/) |
 | [Footie Finder](https://github.com/GBouffard/footy_finder) | Blabla| tech | Test  | NA |
 
-## Education
+***
+
+### Education
 
 **Makers Academy** (March 2015 to June 2015)
 **MBA in engineering management**, Coventry university (2003 to 2004)
-**Mechanical Engineer diploma**, ENIT, Tarbes, France  (1998 to 2003) 
+**Mechanical Engineer diploma**, ENIT, Tarbes, France  (1998 to 2003)
 
-## Career History
+### Career History
 *nb: always in London, UK*
 
 **Analytica Resources** (Jun 2013 - Jan 2015) *CRM Recruitment Specialist & Worldwide Desk Manager*
@@ -101,7 +107,10 @@ French (mother tongue), English (Fluent), Spanish (intermediate).
 **Terrapinn** (Aug 2006 - Nov 2009) *Senior Sales Executive*  
 **Baptie & Co** (Nov 2004 - Aug 2006) *Sales Team Manager*  
 
+***
 
-## Additional information:
+### Additional information:
 
-My Github CV is essentially focused on my future career and I wouldn't want to deviate from this. As a result, mentionning that my previous achievements include growing a network of 330% or being 2 years-in-a-row top salesperson of the year in a previous company, become very quickly irrelevant. It still plays in my favour to mention it but there is no need to go into depth. My full career history, as well as proofs of results and recommendations from ex-clients and business contacts are available on my [LinkedIn](https://uk.linkedin.com/in/gbouffard) profile.
+My Github CV is essentially focused on my future career and I wouldn't want to deviate from this. As a result, mentionning that my previous achievements include growing a network of 330% or being 2 years-in-a-row top salesperson of the year in a previous company, become very quickly irrelevant. It still plays in my favour to mention it but there is no need to go into depth. 
+
+My full career history, as well as proofs of results and recommendations from ex-clients and business contacts are available on my [LinkedIn](https://uk.linkedin.com/in/gbouffard) profile.
