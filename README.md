@@ -48,13 +48,14 @@ Spanish (intermediate).
 
 **Makers Academy** (March 2015 to June 2015)
 Subjects studied:
-- OOP, TDD, SOLID, MVC
-- Git
-- Ruby, Rails, Sinatra
-- Javascript, JQuery, Node.js, Express.js, Angular.js
-- Rspec, Capybara, Cucumber, Jasmine
-- SQL, Postgresql, ActiveRecords, Datamapper
-- HTML5, CSS3
+Technology | Language/Framework/Tool
+-----------|------------------------
+**Languages** | Javascript, Ruby 
+**Front End** | HTML5, CSS3, Bootstrap, jQuery, Angular.js, erb, ejs
+**Back End** | Rails, Sinatra, Node.js, Express.js
+**Databases & ORMs** | PostgreSQL, MongoDB, SQL, ActiveRecord, Data Mapper
+**Testing** | RSpec, Capybara, Cucumber, Jasmine, Karma, Protractor
+**Other** | APIs, Git/Github, Gems, AJAX, Json, REST
 
 **MBA in engineering management**, Coventry university (2003 to 2004)                      
 **Mechanical Engineer diploma**, ENIT, Tarbes, France  (1998 to 2003)
