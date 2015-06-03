@@ -6,82 +6,7 @@ Having recently graduated, I am now looking to join for the long-term a business
 
 ***
 
-### Technical Skills
-
-<table>
-  <tr>
-    <td>
-    <h4>Methodology</h4>
-    </td>
-    <td>
-    Test-Driven Development (TDD)
-    <br>Behavior-Driven Development (BDD)
-    <br>Agile Methodology & Best Practices
-    <br>SOLID Design Principles
-    <br>Version Control with Git
-    </td>
-  </tr>
-  <tr>
-    <td><h4>Languages</h4></td>
-    <td>
-      Ruby
-      <br>Javascript
-    </td>
-  </tr>
-  <tr>
-    <td><h4>Frameworks</h4></td>
-    <td>
-      Sinatra
-      <br>Rails
-      <br>AngularJS
-      <br>ExpressJS on NodeJS
-    </td>
-  </tr>
-  <tr>
-    <td><h4>Testing Frameworks</h4></td>
-    <td>
-      RSpec
-      <br>Cucumber
-      <br>Capybara
-      <br>Jasmine
-    </td>
-  </tr>
-  <tr>
-    <td><h4>Front-End Skills</h4></td>
-    <td>
-      HTML5
-      <br>CSS3
-      <br>jQuery
-      <br>AJAX
-      <br>Heroku
-      <br>ERB, EJS, HAML.
-    </td>
-  </tr>
-   <tr>
-    <td><h4>Databases and ORMs</h4></td>
-    <td>
-      PostgreSQL
-      <br>Datamapper
-      <br>ActiveRecord
-      <br>MongoDB
-    </td>
-  </tr>
-</table>
-
-### Functional Skills
-- Software Crafstmanship
-- Autonomous learning skills and problem solving
-- Teamwork and Pair-programming
-- Good communication
-- Work well under pressure
-- Google and codes searching skills
-
-### Languages skills:
-French (mother tongue), English (Fluent), Spanish (intermediate).
-
-***
-
-### Selected Projects Portfolio
+### Selected Projects Portfolio & Coding Skills Examples
 
 | Repository | Description | Technologies | Testing | URL |
 | ------------ | ----------- | ----------- | ----------- | ----------- |
@@ -92,11 +17,36 @@ French (mother tongue), English (Fluent), Spanish (intermediate).
 
 ***
 
+### Additional Skills:
+
+- **Agile methodology**: I follow its principle and start by building a MVP for every project. I then apply the same for additional features; They are only added one-step-at-a-time.
+- **TDD addiction**: I do not write single line of code before I have written in English the behaviors that I expect my classes to have (or not to have). Once I'm happy with how I want the MVP to behave, I start coding.
+- **Proactive and Autonomous learning**: While I don't have a job (and also when I will have one), I want to keep learning. A the moment, I'm focussed on cementing my knowledge around Javascript and Ruby. Once I will feel that  I have gone as far as I can go on these 2 on my own, I am planning to learn other languages such as Java, Swift and Python.
+- **Teamwork and Pair-programming**: I find it pretty easy to get along with my peers and the software development community. I especially like solving problems as a team or while pair-programming because it's a great feeling to share; and also the occasion to high-five everyone in the team because 'we did it'.
+- **Debugging & Problem solving**: I have learnt how to use some tricks to solve issues as well as enhance my Google search skills to find relevant solutions to the problems that I faced.
+- ** Meeting deadlines and work under pressure**: I was already doing in my previous jobs. I'm still doing it when it comes to a coding challenge. We had some at Makers Academy every week; I never missed a single submission deadline.
+- **Clean and effective code**: I often refactor my code, work on indentation and follow the DRY and YAGNI rules. In the future, I know that it will also make it easier for other developers who will be working with me to receive clean code; also probably better for my own reputation.
+- **Creativity**: I'm bringing loads of design, artistic and clients-focused ideas to a project. The final team project that I worked on, at makers Academy was actually one of my ideas that I pitched. I'm also the lead singer in a rock band, which has nothing to do with coding, but I'm the main songwriter; my audio-creativity may not be that bad on that side either as we managed to get a semi-partnership with Universal Music and release some songs with them.
+- **Fun and good sence of humour**: According to what people say about me, I have some. I think that it's very important and it's so much easier to work with someone who's fun and entertaining; not as important as smart and efficient but it's a great bonus.
+
+### Languages skills:
+French (mother tongue), English (Fluent), Spanish (intermediate).
+
+***
+
 ### Education
 
-**Makers Academy** (March 2015 to June 2015)
-**MBA in engineering management**, Coventry university (2003 to 2004)  
-**Mechanical Engineer diploma**, ENIT, Tarbes, France  (1998 to 2003)  
+**Makers Academy** (March 2015 to June 2015) * *
+- OOP, TDD, SOLID, MVC
+- Git
+- Ruby, Rails, Sinatra
+- Javascript, JQuery, Node.js, Express.js, Angular.js
+- Rspec, Capybara, Cucumber, Jasmine
+- SQL, Postgresql, ActiveRecords, Datamapper
+- HTML5, CSS3
+
+**MBA in engineering management**, Coventry university (2003 to 2004) * *
+**Mechanical Engineer diploma**, ENIT, Tarbes, France  (1998 to 2003) * *
 
 ### Career History
 
