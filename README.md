@@ -47,6 +47,7 @@ Spanish (intermediate).
 ### Education
 
 **Makers Academy** (March 2015 to June 2015)
+
 Subjects studied:
 Technology | Language/Framework/Tool
 -----------|------------------------
