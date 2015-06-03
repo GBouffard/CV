@@ -6,7 +6,7 @@ Having recently graduated, I am now looking to join for the long-term a business
 
 ***
 
-### Selected Projects Portfolio & Coding Skills Examples
+### Coding Skills - Selected Projects Portfolio:
 
 | Repository | Description | Technologies | Testing | URL |
 | ------------ | ----------- | ----------- | ----------- | ----------- |
@@ -17,26 +17,37 @@ Having recently graduated, I am now looking to join for the long-term a business
 
 ***
 
-### Additional Skills:
+### Additional Coding Skills:
 
-- **Agile methodology**: I follow its principle and start by building a MVP for every project. I then apply the same for additional features; They are only added one-step-at-a-time.
-- **TDD addiction**: I do not write single line of code before I have written in English the behaviors that I expect my classes to have (or not to have). Once I'm happy with how I want the MVP to behave, I start coding.
-- **Proactive and Autonomous learning**: While I don't have a job (and also when I will have one), I want to keep learning. A the moment, I'm focussed on cementing my knowledge around Javascript and Ruby. Once I will feel that  I have gone as far as I can go on these 2 on my own, I am planning to learn other languages such as Java, Swift and Python.
-- **Teamwork and Pair-programming**: I find it pretty easy to get along with my peers and the software development community. I especially like solving problems as a team or while pair-programming because it's a great feeling to share; and also the occasion to high-five everyone in the team because 'we did it'.
-- **Debugging & Problem solving**: I have learnt how to use some tricks to solve issues as well as enhance my Google search skills to find relevant solutions to the problems that I faced.
-- ** Meeting deadlines and work under pressure**: I was already doing in my previous jobs. I'm still doing it when it comes to a coding challenge. We had some at Makers Academy every week; I never missed a single submission deadline.
-- **Clean and effective code**: I often refactor my code, work on indentation and follow the DRY and YAGNI rules. In the future, I know that it will also make it easier for other developers who will be working with me to receive clean code; also probably better for my own reputation.
-- **Creativity**: I'm bringing loads of design, artistic and clients-focused ideas to a project. The final team project that I worked on, at makers Academy was actually one of my ideas that I pitched. I'm also the lead singer in a rock band, which has nothing to do with coding, but I'm the main songwriter; my audio-creativity may not be that bad on that side either as we managed to get a semi-partnership with Universal Music and release some songs with them.
-- **Fun and good sence of humour**: According to what people say about me, I have some. I think that it's very important and it's so much easier to work with someone who's fun and entertaining; not as important as smart and efficient but it's a great bonus.
+- **Agile methodology**: I follow its principle and start by building a MVP for every project; the same applies for any additional features: they are only added one-step-at-a-time.
+
+- **TDD addiction**: I do not write single line of code before I have drawn on paper a diagram and written in English the behaviors that I expect classes/models to have (or not to have). Only once I'm happy with the design and tests, I start coding.
+
+- **Proactive and autonomous learning**: learning is a lifelong process. I want to keep it at, whether I'm employed or not. A the moment, I'm focussed on cementing my knowledge around Javascript and Ruby, but once I will feel that I have gone as far as I can go on my own, I intend to look at other languages such as Java, Swift and Python.
+
+- **Teamwork and pair-programming**: I find it pretty easy to get along with other coders and the software development community. It's as if we're all born with an extra cool gene. I especially like solving problems as a team: it's a great feeling to share and also the occasion to high-five everyone in the team when it happens :)
+
+- **Debugging & problem solving**: I have learnt how to debug in Javascript and in ruby as well as improve my Google search skills.
+
+- **Meeting deadlines and work under pressure**: I was already doing these my previous jobs and nothing has changed as a coder. At Makers Academy, we had coding challenges every week; I never missed a single submission deadline.
+
+- **Well-written code**: I try to keep my code as clean as possible; I refactor, indent, follow style guides and respect the DRY and YAGNI rules. I'm aware that a clean code will make life easier for my future teammates; it will also be a good thing for my own reputation within the coding community.
+
+- **Creativity**: I'm known by many for being very creative ideas; I often come up with design, artistic and clients-focused ideas. The final team project that I worked on, at makers Academy was actually one of my pitched ideas. I'm also the lead singer and main songwriter in a London-based rock band; not that it has anything to do with coding but we managed to get a semi-partnership with Universal Music so it shows that I'm creative in multiple domains.
+
+- **Fun and good sence of humour**: I'm said to be pretty fun to be around. I think that it's very important and it's so much easier to work with someone who's fun and entertaining; not as important as smart and efficient but still a great bonus.
 
 ### Languages skills:
-French (mother tongue), English (Fluent), Spanish (intermediate).
+French (mother tongue)
+English (Fluent)
+Spanish (intermediate).
 
 ***
 
 ### Education
 
-**Makers Academy** (March 2015 to June 2015) * *
+**Makers Academy** (March 2015 to June 2015)
+Subjects studied:
 - OOP, TDD, SOLID, MVC
 - Git
 - Ruby, Rails, Sinatra
@@ -45,8 +56,8 @@ French (mother tongue), English (Fluent), Spanish (intermediate).
 - SQL, Postgresql, ActiveRecords, Datamapper
 - HTML5, CSS3
 
-**MBA in engineering management**, Coventry university (2003 to 2004) * *
-**Mechanical Engineer diploma**, ENIT, Tarbes, France  (1998 to 2003) * *
+**MBA in engineering management**, Coventry university (2003 to 2004)                      
+**Mechanical Engineer diploma**, ENIT, Tarbes, France  (1998 to 2003)
 
 ### Career History
 
