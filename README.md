@@ -48,6 +48,7 @@ Spanish (intermediate).
 
 **Makers Academy** (March 2015 to June 2015)
 Subjects studied:
+
 Technology | LanguageS Framework/Tool
 -----------|------------------------
 **Languages** | Javascript, Ruby
