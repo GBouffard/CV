@@ -18,9 +18,9 @@ Having recently graduated, I am now looking to join for the long-term a business
 ***
 
 ### Additional Coding Skills:
-
+'''
 describe('Guillaume', function(){
-  var guillaume;
+*  var guillaume;
 
   beforeEach(function() {
     guillaume = new Guillaume;
@@ -85,8 +85,10 @@ describe('Guillaume', function(){
     expect(Guillaume.contribution).toBe efficientBeforeAnythingElseButFunOnTopOfIt();
   });
 });
+'''
 
 ### Spoken Languages skills:
+'''
 {
   "languages": {
     "French": "mother tongue",
@@ -94,16 +96,17 @@ describe('Guillaume', function(){
     "Spanish": "Intermediate"
   }
 }
-
+'''
 ***
 
 ### Education
 
 **Makers Academy** (March 2015 to June 2015)
+'''
 class MakersAcademy < ActiveRecord::Base
   has_many :subjectsStudied, dependent: :destroy
   validates :name, uniqueness: true
-
+'''
 Technology | Language/Framework/Tool
 -----------|------------------------
 **Languages** | Javascript, Ruby 
@@ -133,7 +136,7 @@ end
 ***
 
 ### Additional information:
-
+'''
 Guillaume.prototype.career = function() {
 // My Github CV is essentially focused on my future career and I don't want to deviate from this. This is why its coded :) My previous achievements include growing a network of 330% and being twice sales executive of the year, but these are now actually irrelevant given the fact that I am completely changing job;
   if (this.cv === 'is enough') { 
@@ -142,3 +145,4 @@ Guillaume.prototype.career = function() {
     my full career history, as well as proofs of past results and recommendations are available on my [LinkedIn Profile](https://uk.linkedin.com/in/gbouffard);
   }
 };
+'''
