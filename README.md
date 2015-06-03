@@ -47,9 +47,8 @@ Spanish (intermediate).
 ### Education
 
 **Makers Academy** (March 2015 to June 2015)
-Subjects studied:
 
-Technology | LanguageS Framework/Tool
+Technology | Languages/Framework/Tool
 -----------|------------------------
 **Languages** | Javascript, Ruby
 **Front End** | HTML5, CSS3, Bootstrap, jQuery, Angular.js, erb, ejs
