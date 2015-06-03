@@ -18,7 +18,7 @@ Having recently graduated, I am now looking to join for the long-term a business
 ***
 
 ### Additional Coding Skills:
-'''
+```
 describe('Guillaume', function(){
 *  var guillaume;
 
@@ -85,28 +85,28 @@ describe('Guillaume', function(){
     expect(Guillaume.contribution).toBe efficientBeforeAnythingElseButFunOnTopOfIt();
   });
 });
-'''
+```
 
 ### Spoken Languages skills:
-'''
+```
 {
   "languages": {
-    "French": "mother tongue",
+    "French": "Mother tongue",
     "English": "Fluent",
     "Spanish": "Intermediate"
   }
 }
-'''
+```
 ***
 
 ### Education
 
 **Makers Academy** (March 2015 to June 2015)
-'''
+```
 class MakersAcademy < ActiveRecord::Base
-  has_many :subjectsStudied, dependent: :destroy
-  validates :name, uniqueness: true
-'''
+  has_many :subjects
+end
+```
 Technology | Language/Framework/Tool
 -----------|------------------------
 **Languages** | Javascript, Ruby 
@@ -116,33 +116,34 @@ Technology | Language/Framework/Tool
 **Testing** | RSpec, Capybara, Cucumber, Jasmine, Karma, Protractor
 **Other** | APIs, Git/Github, Gems, AJAX, Json, REST
 
-end
-
 **MBA in engineering management**, Coventry university (2003 to 2004)                      
 **Mechanical Engineer diploma**, ENIT, Tarbes, France  (1998 to 2003)
 
 ### Career History
+```
 <HTML>
   <table style="width:100%">
-**Analytica Resources** (Jun 2013 - Jan 2015) *CRM Recruitment Specialist & Worldwide Desk Manager*
-**RP International** (Jun 2011 - Apr 2013) *Telecom, OSS, BSS, CRM & IT Recruitment Consultant*  
-**The Oil Council** (Jun 2010 - May 2011) *Senior Business Development Executive*  
-**rogenSi** (Jan 2010 - May 2010) *Business Development Manager*  
-**Terrapinn** (Aug 2006 - Nov 2009) *Senior Sales Executive*  
-**Baptie & Co** (Nov 2004 - Aug 2006) *Sales Team Manager*  
+    <tr> * Analytica Resources (Jun 2013 - Jan 2015) - Worldwide CRM Recruitment Specialist </tr>
+    <tr> * RP International (Jun 2011 - Apr 2013) - Telecom, OSS & BSS Recruitment Consultant </tr>
+    <tr> * The Oil Council (Jun 2010 - May 2011) - Senior Business Development Executive </tr>
+    <tr> * rogenSi (Jan 2010 - May 2010) - Business Development Manager </tr>  
+    <tr> * Terrapinn (Aug 2006 - Nov 2009) - Senior Sales Executive </tr>  
+    <tr> * Baptie & Co** (Nov 2004 - Aug 2006) - Sales Team Manager </tr>  
   </table>
 </HTML>
-
+```
 ***
 
 ### Additional information:
-'''
+```
 Guillaume.prototype.career = function() {
 // My Github CV is essentially focused on my future career and I don't want to deviate from this. This is why its coded :) My previous achievements include growing a network of 330% and being twice sales executive of the year, but these are now actually irrelevant given the fact that I am completely changing job;
+
   if (this.cv === 'is enough') { 
     return('Im curious about this French guy. Im not sure what he is about but I would definitely like to arrange an interview with him');
   } else {
-    my full career history, as well as proofs of past results and recommendations are available on my [LinkedIn Profile](https://uk.linkedin.com/in/gbouffard);
+    my full career history, as well as proofs of past results and recommendations are available on my LinkedIn Profile;
   }
 };
-'''
+```
+[LinkedIn Profile](https://uk.linkedin.com/in/gbouffard)
