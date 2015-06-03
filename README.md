@@ -20,58 +20,58 @@ Having recently graduated, I am now looking to join for the long-term a business
 ### Additional Coding Skills:
 ```
 describe('Guillaume', function(){
-*  var guillaume;
+var guillaume;
 
   beforeEach(function() {
     guillaume = new Guillaume;
     GuillaumeArrivesOnTimeInTheOfficeEveryDay;
   });
     
-  it('in case it's not obvious, **is a TDD addict**', function(){
+  it('in case its not obvious, is a TDD addict', function(){
     draws a diagram on paper before writing a single line of code;
     always writes in plain English the expected behaviors of each class and model;
     Only once happy with the above, then starts coding;
     expect(Guillaume.code).toBe fullyTested();
   });
 
-  it('**follows the agile methodology**', function(){
+  it('follows the agile methodology', function(){
     starts by building a MVP for every project and then;
     expect(Guillaume.code).toBe addingFeaturesOnlyOneStepAtATime();
   });
 
-  it('**learns proactively and autonomously**', function(){
+  it('learns proactively and autonomously', function(){
     learning is a lifelong process and wants to keep learning whether employed or not;
     A the moment, focussed on cementing knowledge around Javascript and Ruby;
     in the future, intend to look at other languages such as Java, Swift and Python;
     expect(Guillaume.brain).toContain newCodingSkillsAndLanguages();
   });
 
-  it('**likes Teamwork and pair-programming**', function(){
+  it('likes teamwork and pair-programming', function(){
     finds it easy to get along with other coders, as if we all have an extra cool gene;
     thinks it's a great feeling to finally solve a bug or get something working as a team;
     expect(Guillaume.hands).toBe highFivingEveryoneInTheTeamWhenItHappens();
   });
 
-  it('**knows how to debug & solve problems**', function(){
+  it('knows how to debug and solve problems', function(){
     uses console.log, byebug, irb and own knowledge to reslove bugs;
     has also improved Google search skills;
     expect(Guillaume.code).toBe bugFree();
   });
 
-  it('**Meets deadlines and works well under pressure**', function(){
+  it('meets deadlines and works well under pressure', function(){
     was already doing in previous jobs and didnt change this habit;
     never missed a single submission deadline for every weekly challenge at Makers Academy;
     expect(Guillaume.submissions).toBe OnTime();
   });
 
-  it('**Well-written code**', function(){
+  it('likes to produce well-written code', function(){
     tries to keep his code as clean as possible;
     refactors, indents, follows style guides and respects the DRY and YAGNI rules;
     is aware that a clean code will make life easier for future teammates;
     expect(Guillaume.code).toBe easyToRead;
   });
 
-  it('**Creativity**', function(){
+  it('is a bundle of creativity', function(){
     in case this coded-style-CV is not creative enough;
     is known for always coming up with very creative artistic engaging marketing client retention growth and client engagement ideas;
     his final team project at makers Academy was actually one of the ideas that he pitched;
@@ -79,7 +79,7 @@ describe('Guillaume', function(){
     expect(Guillaume.brain).toComeUpWithATonOfIdeasAndFeaturesForAProject();
   });
 
-  it('**is Fun and have a good sence of humour**', function(){
+  it('is fun and have a good sence of humour', function(){
     is said to be pretty fun to be around;
     thinks that it's very important and so much easier to work with cool and entertaining people;
     expect(Guillaume.contribution).toBe efficientBeforeAnythingElseButFunOnTopOfIt();
