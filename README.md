@@ -30,7 +30,7 @@ var guillaume;
   it('in case its not obvious, is a TDD addict', function(){
     draws a diagram on paper before writing a single line of code;
     always writes in plain English the expected behaviors of each class and model;
-    Only once happy with the above, then starts coding;
+    only once happy with the above, then starts coding;
     expect(Guillaume.code).toBe fullyTested();
   });
 
@@ -41,47 +41,46 @@ var guillaume;
 
   it('learns proactively and autonomously', function(){
     learning is a lifelong process and wants to keep learning whether employed or not;
-    A the moment, focussed on cementing knowledge around Javascript and Ruby;
+    At the moment, focussed on cementing knowledge around Javascript and Ruby;
     in the future, intend to look at other languages such as Java, Swift and Python;
     expect(Guillaume.brain).toContain newCodingSkillsAndLanguages();
   });
 
   it('likes teamwork and pair-programming', function(){
     finds it easy to get along with other coders, as if we all have an extra cool gene;
-    thinks it's a great feeling to finally solve a bug or get something working as a team;
+    thinks it's a great feeling to solve a bug or get something working as a team;
     expect(Guillaume.hands).toBe highFivingEveryoneInTheTeamWhenItHappens();
   });
 
   it('knows how to debug and solve problems', function(){
     uses console.log, byebug, irb and own knowledge to reslove bugs;
-    has also improved Google search skills;
+    has also improved his own Google search skills;
     expect(Guillaume.code).toBe bugFree();
   });
 
   it('meets deadlines and works well under pressure', function(){
     was already doing in previous jobs and didnt change this habit;
-    never missed a single submission deadline for every weekly challenge at Makers Academy;
+    never missed a submission deadline for weekly Makers Academy challenge;
     expect(Guillaume.submissions).toBe OnTime();
   });
 
   it('likes to produce well-written code', function(){
     tries to keep his code as clean as possible;
     refactors, indents, follows style guides and respects the DRY and YAGNI rules;
-    is aware that a clean code will make life easier for future teammates;
+    is aware that a clean code will make life easier for his future teammates;
     expect(Guillaume.code).toBe easyToRead;
   });
 
   it('is a bundle of creativity', function(){
-    in case this coded-style-CV is not creative enough;
-    is known for always coming up with very creative artistic engaging marketing client retention growth and client engagement ideas;
-    his final team project at makers Academy was actually one of the ideas that he pitched;
-    is also creative as a songwriter to the extend that he signed in the past for his band a partnership with Universal Music;
+    in case this coded-style-CV is not creative enough; is known for always
+    coming up with creative, revenue generating, client retention and engagement ideas;
+    had his idea chosen by the team for the final project at Makers Academy;
     expect(Guillaume.brain).toComeUpWithATonOfIdeasAndFeaturesForAProject();
   });
 
-  it('is fun and have a good sence of humour', function(){
+  it('is fun and have a good sense of humour', function(){
     is said to be pretty fun to be around;
-    thinks that it's very important and so much easier to work with cool and entertaining people;
+    believes that its so much easier to work with cool and entertaining people;
     expect(Guillaume.contribution).toBe efficientBeforeAnythingElseButFunOnTopOfIt();
   });
 });
@@ -123,12 +122,12 @@ Technology | Language/Framework/Tool
 ```
 <HTML>
   <table style="width:100%">
-    <tr> * Analytica Resources (Jun 2013 - Jan 2015) - Worldwide CRM Recruitment Specialist </tr>
-    <tr> * RP International (Jun 2011 - Apr 2013) - Telecom, OSS & BSS Recruitment Consultant </tr>
-    <tr> * The Oil Council (Jun 2010 - May 2011) - Senior Business Development Executive </tr>
-    <tr> * rogenSi (Jan 2010 - May 2010) - Business Development Manager </tr>  
-    <tr> * Terrapinn (Aug 2006 - Nov 2009) - Senior Sales Executive </tr>  
-    <tr> * Baptie & Co** (Nov 2004 - Aug 2006) - Sales Team Manager </tr>  
+    <tr> - Analytica Resources (Jun 2013 - Jan 2015) - CRM Recruitment Specialist </tr>
+    <tr> - RP International (Jun 2011 - Apr 2013) - Telecom Recruitment Consultant </tr>
+    <tr> - The Oil Council (Jun 2010 - May 2011) - Business Development Executive </tr>
+    <tr> - rogenSi (Jan 2010 - May 2010) - Business Development Manager </tr>  
+    <tr> - Terrapinn (Aug 2006 - Nov 2009) - Senior Sales Executive </tr>  
+    <tr> - Baptie & Co** (Nov 2004 - Aug 2006) - Sales Team Manager </tr>  
   </table>
 </HTML>
 ```
@@ -137,12 +136,17 @@ Technology | Language/Framework/Tool
 ### Additional information:
 ```
 Guillaume.prototype.career = function() {
-// My Github CV is essentially focused on my future career and I don't want to deviate from this. This is why its coded :) My previous achievements include growing a network of 330% and being twice sales executive of the year, but these are now actually irrelevant given the fact that I am completely changing job;
+// My Github CV is essentially focused on my future career and I don't want to deviate 
+from this. its even coded! :) My previous achievements include growing a network
+of 330% and being twice sales executive of the year, but these are now actually 
+irrelevant given the fact that I am completely changing job;
 
   if (this.cv === 'is enough') { 
-    return('Im curious about this French guy. Im not sure what he is about but I would definitely like to arrange an interview with him');
+    return('Im curious about this French guy. Im not sure if he is a genius or completely 
+    mad but I would definitely like to arrange an interview with him!');
   } else {
-    my full career history, as well as proofs of past results and recommendations are available on my LinkedIn Profile;
+    my full career history, as well as proofs of past results and recommendations 
+    are available on my LinkedIn Profile;
   }
 };
 ```
