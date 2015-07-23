@@ -8,11 +8,11 @@ Having recently graduated, I am now looking to join for the long-term a business
 
 ### Coding Skills - Selected Projects Portfolio:
 
-| Repository | Description | Technologies | Testing | URL |
+| Repository | Description | Technologies | Testing | Heroku URL |
 | ------------ | ----------- | ----------- | ----------- | ----------- |
+| [Rock Paper Scissors](https://github.com/GBouffard/rps-challenge) | An online Rock Paper Scissors (and RPS Spock Lizard) game | ruby, sinatra | rspec, capybara, cucumber | [RPS](http://guillaume-rps.herokuapp.com/) |
 | [Boris Bikes](https://github.com/GBouffard/BB5) | TDD Blabla | Ruby | Rspec | NA |
 | [Chitter](TBC) | Blabla | tech | test | [Na](http_na/) |
-| [Rock Paper Scissors](TBC) | Blabla | tech | test | [Na](http_na/) |
 | [Footie Finder](https://github.com/GBouffard/footy_finder) | Blabla| tech | Test  | NA |
 
 ***
