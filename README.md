@@ -10,9 +10,9 @@ Having recently graduated, I am now looking to join for the long-term a business
 
 | Repository | Description | Technologies | Testing | Heroku URL |
 | ------------ | ----------- | ----------- | ----------- | ----------- |
-| [Rock Paper Scissors](https://github.com/GBouffard/rps-challenge) | An online Rock Paper Scissors (and RPS Spock Lizard) game | ruby, sinatra | rspec, capybara, cucumber | [RPS](http://guillaume-rps.herokuapp.com/) |
+| [Rock Paper Scissors](https://github.com/GBouffard/rps-challenge) | An online Rock Paper Scissors (and RPS Spock Lizard) game | Ruby, Sinatra | Rspec, Capybara, Cucumber  [![Coverage Status](https://coveralls.io/repos/GBouffard/rps-challenge/badge.svg?branch=master)](https://coveralls.io/r/GBouffard/rps-challenge?branch=master) [![Code Climate](https://codeclimate.com/repos/55a3d721e30ba02b0e000ad5/badges/f040d48b2c22183e6fae/gpa.svg)](https://codeclimate.com/repos/55a3d721e30ba02b0e000ad5/feed) | [RPS](http://guillaume-rps.herokuapp.com/) |
+| [Chitter](https://github.com/GBouffard/chitter-challenge) | An online Twitter clone | Ruby, Postgresql, Datamapper, Sinatra, Bcrypt, rack-flash | Rspec, Capybara [![Coverage Status](https://coveralls.io/repos/GBouffard/chitter-challenge/badge.svg?branch=master&service=github)](https://coveralls.io/github/GBouffard/chitter-challenge?branch=master) [![Code Climate](https://codeclimate.com/repos/55a3d9896956805f780038e0/badges/fd8c18eb797cee16b741/gpa.svg)](https://codeclimate.com/repos/55a3d9896956805f780038e0/feed) | [Chitter](http://guillaume-chitter.herokuapp.com/) |
 | [Boris Bikes](https://github.com/GBouffard/BB5) | TDD Blabla | Ruby | Rspec | NA |
-| [Chitter](TBC) | Blabla | tech | test | [Na](http_na/) |
 | [Footie Finder](https://github.com/GBouffard/footy_finder) | Blabla| tech | Test  | NA |
 
 ***
