@@ -12,8 +12,8 @@ Having recently graduated, I am now looking to join for the long-term a business
 | ------------ | ----------- | ----------- | ----------- | ----------- |
 | [Rock Paper Scissors](https://github.com/GBouffard/rps-challenge) | An online Rock Paper Scissors (and RPS Spock Lizard) game | Ruby, Sinatra | Rspec, Capybara, Cucumber  [![Coverage Status](https://coveralls.io/repos/GBouffard/rps-challenge/badge.svg?branch=master)](https://coveralls.io/r/GBouffard/rps-challenge?branch=master) [![Code Climate](https://codeclimate.com/repos/55a3d721e30ba02b0e000ad5/badges/f040d48b2c22183e6fae/gpa.svg)](https://codeclimate.com/repos/55a3d721e30ba02b0e000ad5/feed) | [RPS](http://guillaume-rps.herokuapp.com/) |
 | [Chitter](https://github.com/GBouffard/chitter-challenge) | An online Twitter clone | Ruby, Postgresql, Datamapper, Sinatra, Bcrypt, rack-flash | Rspec, Capybara [![Coverage Status](https://coveralls.io/repos/GBouffard/chitter-challenge/badge.svg?branch=master&service=github)](https://coveralls.io/github/GBouffard/chitter-challenge?branch=master) [![Code Climate](https://codeclimate.com/repos/55a3d9896956805f780038e0/badges/fd8c18eb797cee16b741/gpa.svg)](https://codeclimate.com/repos/55a3d9896956805f780038e0/feed) | [Chitter](http://guillaume-chitter.herokuapp.com/) |
-| [Boris Bikes](https://github.com/GBouffard/BB5) | TDD Blabla | Ruby | Rspec | NA |
-| [Footie Finder](https://github.com/GBouffard/footy_finder) | Blabla| tech | Test  | NA |
+| [Bowling Score Calculator](https://github.com/GBouffard/Bowling-challenge) | An online Bowling Calculator System | Javascript, JQuery, Node | Jasmine [![Code Climate](https://codeclimate.com/github/GBouffard/Bowling-challenge/badges/gpa.svg)](https://codeclimate.com/github/GBouffard/Bowling-challenge) | [Bowling](http://guillaume-bowling.herokuapp.com) |
+| [Yelp Clone](https://github.com/GBouffard/yelp_clone) | An online Restaurant and review website | Ruby on Rails, Postgresql, Devise, Omniauth, Paperclip, Javascript & AJAX | Rspec, Capybara [![Coverage Status](https://coveralls.io/repos/GBouffard/yelp_clone/badge.svg?branch=master&service=github)](https://coveralls.io/github/GBouffard/yelp_clone?branch=master) [![Code Climate](https://codeclimate.com/github/GBouffard/yelp_clone/badges/gpa.svg)](https://codeclimate.com/github/GBouffard/yelp_clone) | [Yelp](http://guillaume-yelp.herokuapp.com/) |
 
 ***
 
@@ -28,7 +28,7 @@ var guillaume;
   });
     
   it('in case its not obvious, is a TDD addict', function(){
-    draws a diagram on paper before writing a single line of code;
+    does not jump into writing a single line of code before having analysed a MVP;
     always writes in plain English the expected behaviors of each class and model;
     only once happy with the above, then starts coding;
     expect(Guillaume.code).toBe fullyTested();
@@ -54,7 +54,7 @@ var guillaume;
 
   it('knows how to debug and solve problems', function(){
     uses console.log, byebug, irb and own knowledge to reslove bugs;
-    has also improved his own Google search skills;
+    has also improved his own Google search and StackOverflow skills;
     expect(Guillaume.code).toBe bugFree();
   });
 
@@ -74,8 +74,8 @@ var guillaume;
   it('is a bundle of creativity', function(){
     in case this coded-style-CV is not creative enough; is known for always
     coming up with creative, revenue generating, client retention and engagement ideas;
-    had his idea chosen by the team for the final project at Makers Academy;
-    expect(Guillaume.brain).toComeUpWithATonOfIdeasAndFeaturesForAProject();
+    will come up with suggestions to discuss with the team for either RFP or bids phases;
+    expect(Guillaume.brain).toComeUpWithCoolIdeasAndFeaturesForAProject();
   });
 
   it('is fun and have a good sense of humour', function(){
@@ -86,7 +86,7 @@ var guillaume;
 });
 ```
 
-### Spoken Languages skills:
+### Spoken Languages (not coding):
 ```
 {
   "languages": {
@@ -111,7 +111,7 @@ Technology | Language/Framework/Tool
 **Languages** | Javascript, Ruby 
 **Front End** | HTML5, CSS3, Bootstrap, jQuery, Angular.js, erb, ejs
 **Back End** | Rails, Sinatra, Node.js, Express.js
-**Databases & ORMs** | PostgreSQL, MongoDB, SQL, ActiveRecord, Data Mapper
+**Databases & ORMs** | PostgreSQL, SQL, ActiveRecord, Data Mapper
 **Testing** | RSpec, Capybara, Cucumber, Jasmine, Karma, Protractor
 **Other** | APIs, Git/Github, Gems, AJAX, Json, REST
 
