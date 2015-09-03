@@ -2,7 +2,7 @@
 
 A French and fun London-based coding MacGyver, who has a passion for solving puzzles, maths problems and challenges that involve a deep level of concentration. Despite having received multiple awards, I felt for a long-time that I wasn't true to myself in my previous career. In March 2015, I took a leap of faith and put my trust in the Makers Academy cursus to do what I wanted to do for a very long time: learn how to code. 
 
-Having recently graduated, I am now looking to join for the long-term a business that I can add value to and learn from, at the same time as I can enjoy my new career with a team of smart and fun people.
+Having recently graduated from [Makers Academy](http://www.makersacademy.com/), I am now looking to join for the long-term a business that I can add value to and learn from, at the same time as I can enjoy my new career with a team of smart and fun people.
 
 ***
 
@@ -74,7 +74,7 @@ var guillaume;
   it('is a bundle of creativity', function(){
     in case this coded-style-CV is not creative enough; is known for always
     coming up with creative, revenue generating, client retention and engagement ideas;
-    will come up with suggestions to discuss with the team for either RFP or bids phases;
+    will come up with suggestions to discuss with the team for RFP or bids phases;
     expect(Guillaume.brain).toComeUpWithCoolIdeasAndFeaturesForAProject();
   });
 
@@ -121,7 +121,7 @@ Technology | Language/Framework/Tool
 ### Career History
 ```
 <HTML>
-  <table style="width:100%">
+  <table id="careerHistory">
     <tr> - Analytica Resources (Jun 2013 - Jan 2015) - CRM Recruitment Specialist </tr>
     <tr> - RP International (Jun 2011 - Apr 2013) - Telecom Recruitment Consultant </tr>
     <tr> - The Oil Council (Jun 2010 - May 2011) - Business Development Executive </tr>
